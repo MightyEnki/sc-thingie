@@ -1,0 +1,327 @@
+Bundle_Ship_Race1_L_T4_PremUniq_chest, Gift bundle
+Bundle_Ship_Race2_M_T4_PremUniq_chest, Gift bundle
+Ship_Race1_L_T4_PremUniq_chest_Discount, Gift bundle
+Ship_Race2_M_T4_PremUniq_chest_Discount, Gift bundle
+Ship_Race1_H_T3, Invincible
+Ship_Race1_H_T4, Brave
+Ship_Race1_H_T5, Vigilant
+Ship_Race1_L_T1_2, Superharpy
+Ship_Race1_L_T1_Faction1, Iron Harpy
+Ship_Race1_L_T1_Faction2, Steel Harpy
+Ship_Race1_L_T1, Harpy
+Ship_Race1_L_T1_Premium, Siegfried
+Ship_Race1_L_T2_2, Gorgon
+Ship_Race1_L_T2_Faction1, Hydra 2
+Ship_Race1_L_T2_Faction2, Acid Hydra
+Ship_Race1_L_T2, Hydra
+Ship_Race1_L_T2_Premium, Trooper
+Ship_Race1_L_T3_2, Kerberos
+Ship_Race1_L_T3_Faction1_2, Garm 4
+Ship_Race1_L_T3_Faction1, Styx
+Ship_Race1_L_T3_Faction2_2, Cerberus 3
+Ship_Race1_L_T3_Faction2, Garm
+Ship_Race1_L_T3, Cerberus
+Ship_Race1_L_T3_Pirate, Phoenix
+Ship_Race1_L_T3_Premium, Sigurdr
+Ship_Race1_L_T4_2, Sagittarius
+Ship_Race1_L_T4_Faction1_2, Centaur 4
+Ship_Race1_L_T4_Faction1, Minotaur
+Ship_Race1_L_T4_Faction2_2, Silver Centaur
+Ship_Race1_L_T4_Faction2, Chiron
+Ship_Race1_L_T4, Centaur
+Ship_Race1_L_T4_Premium, Atlas
+Ship_Race1_L_T4_PremUniq, Gargoyle
+Ship_Race1_L_T5_2, Smok 
+Ship_Race1_L_T5_Craft, Kraken
+Ship_Race1_L_T5_Faction1_2, Dragon 3RC
+Ship_Race1_L_T5_Faction1, Naga
+Ship_Race1_L_T5_Faction2_2, Fire Dragon
+Ship_Race1_L_T5_Faction2, Archdragon
+Ship_Race1_L_T5, Dragon
+Ship_Race1_L_T5_Premium, Black Dragon
+Ship_Race1_L_T5_PremUniq, Brokk
+Ship_Race1_M_T1_2, Hercules Hero
+Ship_Race1_M_T1_Faction1, Hercules Rage
+Ship_Race1_M_T1_Faction2, Hercules Arrow
+Ship_Race1_M_T1, Hercules
+Ship_Race1_M_T1_Premium, Ghost
+Ship_Race1_M_T2_2, Terror
+Ship_Race1_M_T2_Faction1, Deimos 2
+Ship_Race1_M_T2_Faction2, Phobos
+Ship_Race1_M_T2, Deimos
+Ship_Race1_M_T2_Pirate, Shark
+Ship_Race1_M_T2_Premium, Kalah
+Ship_Race1_M_T3_2, Prometheus S
+Ship_Race1_M_T3_Faction1_2, Prometheus 3
+Ship_Race1_M_T3_Faction1, Prometheus X
+Ship_Race1_M_T3_Faction2_2, Superfire
+Ship_Race1_M_T3_Faction2, Prometheus Fire
+Ship_Race1_M_T3_Faction3, Achilles
+Ship_Race1_M_T3, Prometheus
+Ship_Race1_M_T3_Premium, Nukem I
+Ship_Race1_M_T3_Steam, Desert Eagle
+Ship_Race1_M_T4_2, Polydeuces
+Ship_Race1_M_T4_Faction1_2, Superkastor
+Ship_Race1_M_T4_Faction1, Spartacus
+Ship_Race1_M_T4_Faction2_2, Kastor 3
+Ship_Race1_M_T4_Faction2, Argonaut
+Ship_Race1_M_T4, Castor
+Ship_Race1_M_T4_Premium, Orelus
+Ship_Race1_M_T4_Steam, Loki
+Ship_Race1_M_T5_2, Helios
+Ship_Race1_M_T5_Craft, Mjolnir
+Ship_Race1_M_T5_Faction1_2, Apollo 3
+Ship_Race1_M_T5_Faction1, Aura
+Ship_Race1_M_T5_Faction2_2, Artemis
+Ship_Race1_M_T5_Faction2, Lightbringer
+Ship_Race1_M_T5, Apollo
+Ship_Race1_M_T5_Premium, Spark
+Ship_Race1_S_T1P, Silver Dvergr
+Ship_Race1_S_T1_Faction1, Dvergr 2
+Ship_Race1_S_T1_Faction2, Dvergr Knight
+Ship_Race1_S_T1, Dvergr
+Ship_Race1_S_T1_Premium, King Dvergr
+Ship_Race1_S_T2_2, Super Dwarf
+Ship_Race1_S_T2_Faction1, Dwarf 2
+Ship_Race1_S_T2_Faction2, Diamond Dwarf
+Ship_Race1_S_T2, Neutron
+Ship_Race1_S_T2_Premium, Scout
+Ship_Race1_S_T2_Steam, Wasp
+Ship_Race1_S_T3_2, Elf-AA
+Ship_Race1_S_T3_Faction1_2, Elf 3
+Ship_Race1_S_T3_Faction1, Black Swarm
+Ship_Race1_S_T3_Faction2_2, Elf Warrior
+Ship_Race1_S_T3_Faction2, Magnetar
+Ship_Race1_S_T3, Swarm
+Ship_Race1_S_T3_Pirate, Grim
+Ship_Race1_S_T3_Premium, Deimon
+Ship_Race1_S_T4_2, Nibelung Scout
+Ship_Race1_S_T4_Faction1_2, Nibelung 3
+Ship_Race1_S_T4_Faction1, Tempest
+Ship_Race1_S_T4_Faction2_2, Nibelung Strike
+Ship_Race1_S_T4_Faction2, King Nibelung
+Ship_Race1_S_T4, Nibelung
+Ship_Race1_S_T4_Premium, Leonina
+Ship_Race1_S_T5_2, Viking-C
+Ship_Race1_S_T5_Craft, Cyning
+Ship_Race1_S_T5_Faction1_2, Viking 3
+Ship_Race1_S_T5_Faction1, Storm Viking
+Ship_Race1_S_T5_Faction2_2, Viking Jarl 2
+Ship_Race1_S_T5_Faction2, Jarl
+Ship_Race1_S_T5, Viking
+Ship_Race1_S_T5_Premium, Berserker
+Ship_Race2_H_T3, Archon
+Ship_Race2_H_T4, Sibyl
+Ship_Race2_H_T5, Tyrant
+Ship_Race2_L_T1_2, Zealot 2
+Ship_Race2_L_T1_Faction1, Zealot AE
+Ship_Race2_L_T1_Faction2, Neuron Zealot
+Ship_Race2_L_T1, Zealot
+Ship_Race2_L_T1_Premium, Palom
+Ship_Race2_L_T2_2, Templar 2
+Ship_Race2_L_T2_Faction1, Templar AE
+Ship_Race2_L_T2_Faction2, Templar S
+Ship_Race2_L_T2, Templar
+Ship_Race2_L_T2_Premium, Crus Q
+Ship_Race2_L_T2_Steam, Priest Bartle
+Ship_Race2_L_T3_2, Vera Crus
+Ship_Race2_L_T3_Faction1_2, Gratiam Dei
+Ship_Race2_L_T3_Faction1, Ira Deus
+Ship_Race2_L_T3_Faction2_2, Crus Tg
+Ship_Race2_L_T3_Faction2, Crus S
+Ship_Race2_L_T3, Crusader
+Ship_Race2_L_T3_Premium, Crus A
+Ship_Race2_L_T4_2, Tormentor V
+Ship_Race2_L_T4_Faction1_2, Tormentor AE2
+Ship_Race2_L_T4_Faction1, Tormentor AE
+Ship_Race2_L_T4_Faction2_2, Tormentor S2
+Ship_Race2_L_T4_Faction2, Tormentor S
+Ship_Race2_L_T4, Tormentor
+Ship_Race2_L_T4_Pirate, Blood Tormentor
+Ship_Race2_L_T4_Premium, Scimitar
+Ship_Race2_L_T5_2, Torquemada
+Ship_Race2_L_T5_Craft, Ronin
+Ship_Race2_L_T5_Faction1_2, Inquisitor E2
+Ship_Race2_L_T5_Faction1, Inquisitor AE
+Ship_Race2_L_T5_Faction2_2, Inquisitor S2
+Ship_Race2_L_T5_Faction2, Inquisitor S
+Ship_Race2_L_T5, Inquisitor
+Ship_Race2_L_T5_Premium, Patriarch
+Ship_Race2_L_T5_Steam, Mauler
+Ship_Race2_M_T1_2, Black Axe
+Ship_Race2_M_T1_Faction1, Axe-X
+Ship_Race2_M_T1_Faction2, Axe-X S
+Ship_Race2_M_T1, Axe
+Ship_Race2_M_T1_Premium, Black Hort
+Ship_Race2_M_T2_2, Machete 2
+Ship_Race2_M_T2_Faction1, Machete AE
+Ship_Race2_M_T2_Faction2, Machete S
+Ship_Race2_M_T2, Machete
+Ship_Race2_M_T2_Premium, Neuron
+Ship_Race2_M_T2_Steam, Razor
+Ship_Race2_M_T3_2, Fast Katana
+Ship_Race2_M_T3_Faction1_2, Katana AES
+Ship_Race2_M_T3_Faction1, Katana AE
+Ship_Race2_M_T3_Faction2_2, Katana I
+Ship_Race2_M_T3_Faction2, Katana S
+Ship_Race2_M_T3, Katana
+Ship_Race2_M_T3_Premium, Strong
+Ship_Race2_M_T3_Steam, Dragonfly
+Ship_Race2_M_T4_2, Lance Raid
+Ship_Race2_M_T4_Faction1_2, Lancelot
+Ship_Race2_M_T4_Faction1, Lance Bartle
+Ship_Race2_M_T4_Faction2_2, Lanse S2
+Ship_Race2_M_T4_Faction2, Lance S
+Ship_Race2_M_T4, Lance
+Ship_Race2_M_T4_Pirate, Sawtooth
+Ship_Race2_M_T4_Premium, Flamberge
+Ship_Race2_M_T4_PremUniq, Dart
+Ship_Race2_M_T5_2, Wooden Sword
+Ship_Race2_M_T5_Craft, Saw One
+Ship_Race2_M_T5_Faction1_2, Sword AS
+Ship_Race2_M_T5_Faction1, Sword AE
+Ship_Race2_M_T5_Faction2_2, Technosword
+Ship_Race2_M_T5_Faction2, Sword S
+Ship_Race2_M_T5, Sword
+Ship_Race2_M_T5_Premium, Excalibur
+Ship_Race2_S_T1_Faction1, Dagger AE
+Ship_Race2_S_T1_Faction2, Dagger V
+Ship_Race2_S_T1, Dagger
+Ship_Race2_S_T1_Premium, Black Death
+Ship_Race2_S_T2_2, Stiletto BE
+Ship_Race2_S_T2_Faction1, Stiletto AE
+Ship_Race2_S_T2_Faction2, Ricasso
+Ship_Race2_S_T2, Stiletto
+Ship_Race2_S_T2_Premium, Talon
+Ship_Race2_S_T3_2, Kris GTX
+Ship_Race2_S_T3_Faction1_2, Kris AE2
+Ship_Race2_S_T3_Faction1, Kris AE
+Ship_Race2_S_T3_Faction2_2, Kris W
+Ship_Race2_S_T3_Faction2, Kris S
+Ship_Race2_S_T3, Kris
+Ship_Race2_S_T3_Pirate, Nyx
+Ship_Race2_S_T3_Premium, Spirit
+Ship_Race2_S_T4_2, Arigato I/F
+Ship_Race2_S_T4_Faction1_2, Arigato AE+
+Ship_Race2_S_T4_Faction1, Nodachi EW
+Ship_Race2_S_T4_Faction2_2, Arigato GTA
+Ship_Race2_S_T4_Faction2, Nodachi A
+Ship_Race2_S_T4, Nodachi
+Ship_Race2_S_T4_Pirate, Cutter
+Ship_Race2_S_T4_Premium, Kevlar Ha
+Ship_Race2_S_T5_2, Wakizashi Soul
+Ship_Race2_S_T5_Craft, Caltrop
+Ship_Race2_S_T5_Faction1_2, Wakizashi A2
+Ship_Race2_S_T5_Faction1, Wakizashi AE
+Ship_Race2_S_T5_Faction2_2, Wakizashi T
+Ship_Race2_S_T5_Faction2, Wakizashi R
+Ship_Race2_S_T5, Wakizashi
+Ship_Race2_S_T5_Premium, Karud
+Ship_Race3_H_T3, Procyon
+Ship_Race3_H_T4, Antares
+Ship_Race3_H_T5, Sirius
+Ship_Race3_L_T1_2, Raptor Zero
+Ship_Race3_L_T1_Faction1, Raptor-M
+Ship_Race3_L_T1_Faction2, Raptor Mk II
+Ship_Race3_L_T1, Raptor
+Ship_Race3_L_T1_Premium, Raptor-M-2
+Ship_Race3_L_T2_2, Alligator-C4
+Ship_Race3_L_T2_Faction1, Alligator-M
+Ship_Race3_L_T2_Faction2, Alligator Mk II
+Ship_Race3_L_T2, Alligator-C
+Ship_Race3_L_T2_Premium, Honor
+Ship_Race3_L_T3_2, Python
+Ship_Race3_L_T3_Faction1_2, Anaconda-MX
+Ship_Race3_L_T3_Faction1, Anaconda-M
+Ship_Race3_L_T3_Faction2_2, Anaconda Mk III
+Ship_Race3_L_T3_Faction2, Anaconda Mk II
+Ship_Race3_L_T3, Anaconda
+Ship_Race3_L_T3_Pirate, Reaper
+Ship_Race3_L_T3_Premium, Valor
+Ship_Race3_L_T3_PremUniq, Archelon
+Ship_Race3_L_T4_2, Teddy Bear
+Ship_Race3_L_T4_Faction1_2, Grizzly-X
+Ship_Race3_L_T4_Faction1, Grizzly-M
+Ship_Race3_L_T4_Faction2_2, Grizzly Mk III
+Ship_Race3_L_T4_Faction2, Grizzly Mk II
+Ship_Race3_L_T4, Grizzly
+Ship_Race3_L_T4_Premium, Polus
+Ship_Race3_L_T5_2, Blue Bird
+Ship_Race3_L_T5_Craft, Octopus
+Ship_Race3_L_T5_Faction1_2, T2-Rex
+Ship_Race3_L_T5_Faction1, T-Rex
+Ship_Race3_L_T5_Faction2_2, T-Rex Mk III
+Ship_Race3_L_T5_Faction2, T-Rex Mk II
+Ship_Race3_L_T5, Osprey
+Ship_Race3_L_T5_Premium, Mammoth
+Ship_Race3_M_T1_2, Lynx U
+Ship_Race3_M_T1_Faction1, Lynx-M
+Ship_Race3_M_T1_Faction2, Lynx Mk II
+Ship_Race3_M_T1, Lynx
+Ship_Race3_M_T1_Premium, Tiger-M15A3
+Ship_Race3_M_T2_2, Fox-FA18
+Ship_Race3_M_T2_Faction1, Fox-M
+Ship_Race3_M_T2_Faction2, Silent Fox
+Ship_Race3_M_T2, Fox
+Ship_Race3_M_T2_Pirate, Joker
+Ship_Race3_M_T2_Premium, Rhi-no
+Ship_Race3_M_T3_2, Grey Wolf
+Ship_Race3_M_T3_Faction1_2, Werewolf
+Ship_Race3_M_T3_Faction1, Wolf-M
+Ship_Race3_M_T3_Faction2_2, Wolf Mk III
+Ship_Race3_M_T3_Faction2, Wolf Mk II
+Ship_Race3_M_T3_Faction3, Hyena
+Ship_Race3_M_T3, Wolf
+Ship_Race3_M_T3_Premium, Parallax
+Ship_Race3_M_T3_Steam, Bear
+Ship_Race3_M_T4_2, Tiger T-VI
+Ship_Race3_M_T4_Faction1_2, Space Tiger
+Ship_Race3_M_T4_Faction1, Tiger-M
+Ship_Race3_M_T4_Faction2_2, Tiger T-VIB
+Ship_Race3_M_T4_Faction2, Tiger II
+Ship_Race3_M_T4, Tiger
+Ship_Race3_M_T4_Premium, Panther
+Ship_Race3_M_T4_PremUniq, Stingray
+Ship_Race3_M_T5_2, Lionel
+Ship_Race3_M_T5_Craft, Jaguar
+Ship_Race3_M_T5_Faction1_2, Piranha-BBS
+Ship_Race3_M_T5_Faction1, Piranha-B2
+Ship_Race3_M_T5_Faction2_2, Lion Mk III
+Ship_Race3_M_T5_Faction2, Lion Mk II
+Ship_Race3_M_T5, Lion
+Ship_Race3_M_T5_Premium, Rockwell
+Ship_Race3_S_T1_Faction1, Swift-M
+Ship_Race3_S_T1_Faction2, Swift Mk 3
+Ship_Race3_S_T1, Swift
+Ship_Race3_S_T1_Premium, Kite-E
+Ship_Race3_S_T2_2, Superhawk
+Ship_Race3_S_T2_Faction1, Hawk-M
+Ship_Race3_S_T2_Faction2, Hawk-Eye
+Ship_Race3_S_T2, Hawk
+Ship_Race3_S_T2_Premium, Blade of Aressa
+Ship_Race3_S_T2_Steam, Superkite
+Ship_Race3_S_T3_2, Red Kite
+Ship_Race3_S_T3_Faction1_2, Kite-MMM
+Ship_Race3_S_T3_Faction1, Kite-M
+Ship_Race3_S_T3_Faction2_2, Black Kite
+Ship_Race3_S_T3_Faction2, Black Bomber
+Ship_Race3_S_T3, Kite
+Ship_Race3_S_T3_Pirate, Sai
+Ship_Race3_S_T3_Premium, Eagle-B
+Ship_Race3_S_T4_2, Eagle 2
+Ship_Race3_S_T4_Faction1_2, Eagle-M2
+Ship_Race3_S_T4_Faction1, Eagle-M
+Ship_Race3_S_T4_Faction2_2, Golden Eagle
+Ship_Race3_S_T4_Faction2, Swift Eagle
+Ship_Race3_S_T4, Eagle
+Ship_Race3_S_T4_Premium, Konkistador
+Ship_Race3_S_T4_PremUniq, Nightingale
+Ship_Race3_S_T5_2, Falcon Strike
+Ship_Race3_S_T5_Craft, Peregrine
+Ship_Race3_S_T5_Faction1_2, Falcon-ZX
+Ship_Race3_S_T5_Faction1, Falcon-M
+Ship_Race3_S_T5_Faction2_2, Falcon-SC
+Ship_Race3_S_T5_Faction2, Spectre Falcon
+Ship_Race3_S_T5, Grey Falcon
+Ship_Race3_S_T5_Premium, Golden Eagle
+Ship_Race5_M_ATTACK, Thar'Ga
