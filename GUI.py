@@ -4,7 +4,7 @@ from PyQt5.QtCore import *
 from pprint import pprint
 from json import load, dump
 from everything import everything, proper_stats
-import sys, kek, locale
+import sys, kek, locale, os
 
 # -*- coding: utf-8 -*-
 locale.setlocale(locale.LC_ALL, 'pl')
@@ -34,9 +34,14 @@ class Combat_log(QMainWindow, kek.Ui_MainWindow):
                             self.jericho_8, self.jericho_11, self.jericho_14]
         for check in self.ship_checks:
             check.stateChanged.connect(self.need_parts_table)
-        
+
         self.check_all.pressed.connect(self.kek)
         self.uncheck_all.pressed.connect(self.wow)
+        
+        self.somethingsomething()
+        self.treeWidget.itemClicked.connect(self.shitz)
+
+
 
     def kek(self): 
         for check in self.ship_checks:
@@ -128,6 +133,7 @@ class Combat_log(QMainWindow, kek.Ui_MainWindow):
         self.progress.resizeColumnsToContents()
 
     def have_materials_table(self):
+
         1
     def have_parts_table(self):
         1
@@ -287,6 +293,17 @@ class Combat_log(QMainWindow, kek.Ui_MainWindow):
 
 
 
+    def somethingsomething(self):
+        self.name = 'Y:\\python\\logs'
+        for element in os.listdir(self.name):
+            QTreeWidgetItem(self.treeWidget, [os.path.basename(element)])
+        self.treeWidget.resizeColumnToContents(0)
+
+    def shitz(self):
+        text = self.treeWidget.currentItem().text(0)
+        path = os.path.join(self.name, text, 'game.log')
+        #self.table_fill(path)
+        print(path)
 
     def file_open(self):
         name, _ = QFileDialog.getOpenFileName(self, 'Open File')
